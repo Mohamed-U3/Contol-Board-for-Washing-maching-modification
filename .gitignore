@@ -35,6 +35,9 @@ fp-info-cache
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
+**/Gerber/
+*.zip
+*.rar
 
 # Local project settings
 *.kicad_prl
